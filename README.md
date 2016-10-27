@@ -1,2 +1,2 @@
-#My vim settings forked The Best vimrc
+#My vim settings forked from The Best vimrc
 
